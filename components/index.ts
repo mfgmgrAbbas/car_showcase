@@ -1,6 +1,6 @@
 import Hero from "./Hero"
 import CustomButton from "./CustomButton"
-import Navbar from "./Navbar"
+import NavBar from "./NavBar"
 import Footer from "./Footer"
 import SearchBar from "./SearchBar"
 import CustomFilter from "./CustomFilter"
@@ -12,7 +12,7 @@ import ShowMore from "./ShowMore"
 export {
     Hero,
     CustomButton,
-    Navbar,
+    NavBar,
     Footer,
     SearchBar,
     CustomFilter,
